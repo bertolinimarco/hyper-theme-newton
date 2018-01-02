@@ -10,4 +10,4 @@ Add `hyper-theme-newton` to the plugins list in your `~/.hyper.js` config file a
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Marco Bertolini](http://www.marcobertolini.net)
