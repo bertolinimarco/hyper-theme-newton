@@ -1,0 +1,24 @@
+{
+  "name": "hyper-theme-newton",
+  "version": "1.0.0",
+  "description": "A low-eyestrain theme. Apple not included.",
+  "license": "MIT",
+  "repository": "bertolinimarco/hyper-theme-newton",
+  "author": {
+    "name": "Marco Bertolini",
+    "email": "info@marcobertolini.net",
+    "url": "http://www.marcobertolini.net"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "theme",
+    "hyperterm",
+    "low-eyestrain"
+  ]
+}
