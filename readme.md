@@ -1,6 +1,8 @@
-# hyper-theme-newton
+# Newton for Hyper.js
 
 > A low eyestrain [Hyper](https://hyper.is) theme. Apple not included.
+
+[![npm](https://img.shields.io/npm/dt/hyper-theme-newton.svg)]()
 
 ![](screenshot.png)
 
